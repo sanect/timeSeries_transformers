@@ -1,52 +1,72 @@
-# timeSeries_transformers
-# Project Title
+# Transformers for Modeling Long-Term Dependencies in Time Series Data
 
-One Paragraph of project description goes here
+1. **Introduction:**
+   - Briefly introduce the project and its objectives.
 
-## Getting Started
+2. **Overview:**
+   - Highlight the main goals and contributions of the project.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+3. **Table of Contents:**
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [Dataset](#dataset)
+   - [Model Architecture](#model-architecture)
+   - [Training](#training)
+   - [Evaluation](#evaluation)
+   - [Results](#results)
+   - [Contributing](#contributing)
+   - [Issues](#issues)
+   - [License](#license)
+   - [Acknowledgments](#acknowledgments)
+   - [References](#references)
+   - [Contact Information](#contact-information)
+   - [FAQ](#faq)
 
-### Prerequisites
+4. **Installation:**
+   - Provide instructions for installing dependencies and setting up the environment.
 
-What things you need to install the software and how to install them
+5. **Usage:**
+   - Explain how users can use your code.
+   - Include code examples or usage scenarios.
+   - Specify any configuration or input parameters.
 
-### Installing
+6. **Dataset:**
+   - Provide information on where users can access or download time series datasets.
 
-A step by step series of examples that tell you how to get a development env running
+7. **Model Architecture:**
+   - Describe the transformer-based model architecture used.
+   - Include diagrams or code snippets if applicable.
 
-Say what the step will be
+8. **Training:**
+   - Provide guidance on how to train the model using your code.
+   - Include information on hyperparameters, training data format, etc.
 
-## Deployment
+9. **Evaluation:**
+   - Explain how to evaluate the model's performance.
+   - Include metrics used and their interpretation.
 
-Add additional notes about how to deploy this on a live system
+10. **Results:**
+    - Showcase the results of your experiments.
+    - Include visualizations or tables if applicable.
 
-## Built With
+11. **Contributing:**
+    - Clearly outline guidelines for contributors.
+    - Explain how others can contribute to the project.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+12. **Issues:**
+    - Encourage users to report issues and provide guidelines on how to do so.
 
-## Contributing
+13. **License:**
+    - Specify the license under which your code is distributed.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+14. **Acknowledgments:**
+    - Give credit to any external libraries, datasets, or resources you used.
 
-## Versioning
+15. **References:**
+    - Include a list of relevant papers, articles, or resources that inspired or supported your work.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+16. **Contact Information:**
+    - Provide a way for users to contact you for questions or collaboration.
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+17. **FAQ:**
+    - Anticipate common questions and provide answers to them.
