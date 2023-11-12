@@ -1,6 +1,6 @@
 # Transformers for Modeling Long-Term Dependencies in Time Series Data
 
-This repository provides details of our review on how tranformers are used in modeling long term dependencies of time series data. We are focusind on various time series data such as medical, financial, climate data etc. This curated work studies various papers published in this field with detailed comparison of methods used. The abstract of this work will be available as poster in the "2023 IEEE Signal Processing in Medicine and Biology Symposium"
+This repository provides a comprehensive review of how transformers are used to model long-term dependencies in time series data, focusing on a variety of domains such as healthcare, finance, and climate. We curate and analyze relevant papers in this field, providing a detailed comparison of the methods used. The abstract of this work will be presented as a poster at the 2023 IEEE Signal Processing in Medicine and Biology Symposium.
 
 <!--
 2. **Overview:**
